@@ -1,0 +1,8 @@
+.DS_Store
+secrets.txt
+localSettings.txt
+
+# pod files to be ignored
+
+# All text files will be ignored
+#	*.txt
